@@ -197,7 +197,7 @@
 				TargetAttributes = {
 					63E67F401BC6BE4B0023E846 = {
 						CreatedOnToolsVersion = 7.0.1;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1020;
 					};
 					63E67F4A1BC6BE4B0023E846 = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -210,6 +210,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 63E67F371BC6BE4A0023E846;
@@ -404,7 +405,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -425,7 +426,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.spreedly.Spreedly;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};

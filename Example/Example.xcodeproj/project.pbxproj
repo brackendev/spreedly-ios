@@ -151,7 +151,7 @@
 					63E67F631BC6BE9C0023E846 = {
 						CreatedOnToolsVersion = 7.0.1;
 						DevelopmentTeam = U3MS36UDEL;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1020;
 						SystemCapabilities = {
 							com.apple.OMC = {
 								enabled = 0;
@@ -165,6 +165,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -343,7 +344,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.spreedly.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -358,7 +359,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.spreedly.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
